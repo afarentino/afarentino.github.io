@@ -5,8 +5,8 @@
 ### Toastmasters Talks 
 Talks in this collection helped me earn the Competent Communicator (CC) and Competent Leader (CL) designation's from Toastmasters International.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[VP of PR and Membership Mastermind](https://prezi.com/p/ugpskl06azro/)
+<iframe src="https://prezi.com/p/ugpskl06azro/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
 
 ---
 The very first talk I gave at Toastmaster's. It set the foundation for my interest in using tools like Prezi that allow visuals to move beyond simple slide decks created with PowerPoint.
