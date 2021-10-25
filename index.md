@@ -1,8 +1,8 @@
-## Portfolio
+## Speaker Toolbox
 
 ---
 
-### Category Name 1 
+### Toastmasters Talks 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,12 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Super Green Egg Cups](https://prezi.com/view/FlFa7QiHCkqoku3xkWUf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Work Samples
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
