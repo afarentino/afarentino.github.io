@@ -28,4 +28,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Jekyll local files
+_site
+.sass-cache
 .jekyll-cache
+.jekyll-metadata
+vendor
