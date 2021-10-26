@@ -13,9 +13,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello and welcome to my Speaker Toolbox! 
   <br><br>
   This site contains a sampling of various talks I have had the pleasure of delivering.
-  <br><br> If this content peeks leaves interested in learning more, 
+  <br><br> If this content peeks your curiosity, 
   <a href="https://www.linkedin.com/in/tonycastrogiovanni/">connect with me on LinkedIn</a>. 
-  I am happy to schedule some time to discover how I can potentially support you.  
+  I am happy to schedule a 15-minute discovery call to see how I can potentially support you.  
   
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
