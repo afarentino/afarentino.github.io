@@ -6,15 +6,15 @@
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://prezi.com/view/gZxZLNHcEPn5X673gAOK/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
-<b>Summary:</b> Talk given in 2015 to paint the architectural vision for a zero-downtime on-premises blue-green deployment environment -- based on Continous Delivery best practices.  This work paved the way for a 10-month project that incrementally transformed this vision into a reality for Curriculum Pathways.
+<b>Summary:</b> Talk given in 2015 to paint the architectural vision for a zero-downtime blue-green deployment environment -- based on Continuous Delivery best practices.  This work paved the way for a 10-month project that incrementally transformed this vision into a reality for Curriculum Pathways.
 
 [Product Idea: K-12 Nutritional Educator App](https://prezi.com/view/wJoe93i6YYT8nvfwzDdC)
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://prezi.com/view/wJoe93i6YYT8nvfwzDdC/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
-<b>Summary:</b> "Pitch deck" for my very first "Dolphin Tank" product idea.  This idea was never pursued + served as a great learning experience.  
+<b>Summary:</b> "Pitch deck" for my very first "[Dolphin Tank](https://www.canopy.space/dolphin-tank-san-francisco-social-impact/)" product idea.  While this idea was never pursued, it served as a great learning opportunity.  
 
-I continued to pitch innovative product ideas in this forum and eventually became the first developer to have an idea incorporated into an actual product used by Curriculum Pathways.
+I continued to pitch innovative product ideas in this forum and eventually became the first developer to have an product idea turned into an actual product for Curriculum Pathways.
 
 ### Toastmasters Talks 
 
@@ -23,7 +23,7 @@ I continued to pitch innovative product ideas in this forum and eventually becam
     <iframe class="resp-iframe" src="https://prezi.com/view/VYnm1VGBdwLjTVj5RwM0/embed" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
 
-<b>Summary:</b> Presented at the District 37 Toastmasters Leadership Institute conference.  Audience members were all VP's and talented speakers at their own clubs. 
+<b>Summary:</b> Presented at the District 37 Toastmasters Leadership Institute conference.  Audience members were fellow VP's and talented speakers at their own clubs. 
 
 To help draw on their expertise, particpants were split into groups focused on one of the main Keys to Club Success. After writing down their best ideas on a large poster board, each group had 2 minutes to share their discoveries with the rest of the class. 
 
@@ -58,7 +58,7 @@ During the workshop, John and I challenged project leaders to embrace simple yet
 ### Mindmaps
 Mindmapping products like [Mindmeister](https://mindmeister.com) provide another dimension for anyone to create, present and share ideas.  
 
-I often use it to help with book reviews, training materials, meeting agendas, and organizing my thoughts around a topic.  The best part of this product is that it also can be exported traditional slide show; allowing it to be used to augment the creative process speakers use when devising new content.
+I often use it to help with book reviews, training materials, meeting agendas, and organizing my thoughts around a topic.  The best part of this product is that it also fully supports publishing the map as a traditional slide show. This allows it to be used to augment the creative process speakers use when devising new content.
 
 * [Meeting Agenda - NC Job Search Accountability Group](https://mm.tt/1744929372?t=RvAeFzBOWe)
 * [The Scrum Guide - The Definitive Guide to Scrum](https://www.mindmeister.com/1762526660/the-scrum-guide-the-definitive-guide-to-scrum-the-rules-of-the-game)
