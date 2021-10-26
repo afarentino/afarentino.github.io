@@ -10,7 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.9.0"
 
 # Hack to get github-pages gem to work as bundler is pulling in conflicting 
-# version info - thinking ruby 1.9 is required without the >=104
+# version info - thinking ruby 1.9 is required without the =221
 gem "github-pages", '=221', group: :jekyll_plugins
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

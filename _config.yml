@@ -12,17 +12,17 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   Hello and welcome to my Speaker Toolbox! 
   <br><br>
-  This site contains samples from a few talks I have had the pleasure of delivering.
-  <br><br> If the content has peeked your curiosity, connect with me on LinkedIn.   
-  I'd love to setup an exploratory call to learn more how I can support you. 
-  <br>
-  <a href="https://www.linkedin.com/in/tonycastrogiovanni/">View My LinkedIn Profile</a> 
+  This site contains samples from a talks I have had the pleasure of delivering.
+  <br><br> If the content peeks your curiosity, 
+  <a href="https://www.linkedin.com/in/tonycastrogiovanni/">connect with me on LinkedIn</a>. 
+  I'd be happy to schedule a 15-minute discovery call to see I can potentially support you. 
   
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you one
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
