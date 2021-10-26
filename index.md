@@ -6,7 +6,7 @@
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://prezi.com/view/gZxZLNHcEPn5X673gAOK/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
-
+<b>Summary:</b> Talk given in 2015 to paint the architectural vision for a zero-downtime on-premises blue-green deployment environment -- based on Continous Delivery best practices.  This work paved the way for a 10-month project that incrementally transformed this vision into a reality for Curriculum Pathways.
 ---
 ### Toastmasters Talks 
 
