@@ -12,9 +12,9 @@
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://prezi.com/view/wJoe93i6YYT8nvfwzDdC/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
-<b>Summary:</b> "Pitch deck" for my very first "[Dolphin Tank](https://www.canopy.space/dolphin-tank-san-francisco-social-impact/)" product idea.  While this idea was never pursued, it served as a great learning opportunity.  
+<b>Summary:</b> "Pitch deck" for my very first "[Dolphin Tank](https://www.canopy.space/dolphin-tank-san-francisco-social-impact/)" product idea.  While this idea was never pursued, we did not have the domain-knowledge in-house needed, it served as a great learning opportunity.  
 
-I continued to pitch innovative product ideas in this forum and eventually became the first developer to have an product idea turned into an actual product for Curriculum Pathways.
+I continued to pitch innovative product ideas in this forum -- think of it as a softer version of the popular US TV series [Shark Tank](https://en.wikipedia.org/wiki/Shark_Tank).
 
 ### Toastmasters Talks 
 
@@ -23,17 +23,17 @@ I continued to pitch innovative product ideas in this forum and eventually becam
     <iframe class="resp-iframe" src="https://prezi.com/view/VYnm1VGBdwLjTVj5RwM0/embed" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
 
-<b>Summary:</b> Presented at the District 37 Toastmasters Leadership Institute conference.  Audience members were fellow VP's and talented speakers at their own clubs. 
+<b>Summary:</b> Presented at the District 37 Toastmasters Leadership Institute conference.  Audience members were fellow VP's and talented speakers at their clubs. 
 
-To help draw on their expertise, particpants were split into groups focused on one of the main Keys to Club Success. After writing down their best ideas on a large poster board, each group had 2 minutes to share their discoveries with the rest of the class. 
+During the mastermind session, participants break out into small groups dedicated to a Key To Club Success. After writing down their best ideas on a large poster board, each group had 2 minutes to share their discoveries with the rest of the class. 
 
 [The Icebreaker: Married and On Mission](https://prezi.com/view/Y3v5PLSmfUrcStZXNj0w/)
 <div class="resp-container">
     <iframe class="resp-iframe" src="https://prezi.com/view/Y3v5PLSmfUrcStZXNj0w/embed/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen"></iframe>
 </div>    
-<b>Summary:</b> The Icebreaker is the first talk a member gives when they join a Toastmasters club. This speech allowed the club to learn more about me. It also set the foundation for my ongoing interest in capturing audiences with not only great content but stunning visuals.
+<b>Summary:</b> The Icebreaker is the first talk a member gives when they join a Toastmasters club. This speech allowed the club to learn more about me. It also set the foundation for my ongoing interest in captivating audiences with not only great content but stunning visuals.
 
-This Prezi template was inspired by the Facebook profile page.
+The Facebook profile page served as inspiration for Prezi's starter template.
 
 [Get to the Point: A Toastmaster's Guide to CS Education Week](https://prezi.com/view/EmmZDR34hx3wvkWTvTHJ/)
 <div class="resp-container">
@@ -56,9 +56,9 @@ This Prezi template was inspired by the Facebook profile page.
 During the workshop, John and I challenged project leaders to embrace simple yet effective habits that reduce cognitive load and increase team effectiveness.
 
 ### Mindmaps
-Mindmapping products like [Mindmeister](https://mindmeister.com) provide another dimension for anyone to create, present and share ideas.  
+Mindmapping products like [Mindmeister](https://mindmeister.com) provide another dimension for anyone to create, present, and share ideas.  
 
-I often use it to help with book reviews, training materials, meeting agendas, and organizing my thoughts around a topic.  The best part of this product is that it also fully supports publishing the map as a traditional slide show. This allows it to be used to augment the creative process speakers use when devising new content.
+I use mind mapping to help with book reviews, training materials, meeting agendas, and as a tool for discovery work.  One of my favorite features of Mindmeister is its support for publishing maps as traditional slide shows. If you want to give the product a try, here is a [link](https://www.mindmeister.com/mind-map-pricing) to Mindmeister's pricing.  All users can sign-up for FREE and create up to 3 maps.
 
 * [Meeting Agenda - NC Job Search Accountability Group](https://mm.tt/1744929372?t=RvAeFzBOWe)
 * [The Scrum Guide - The Definitive Guide to Scrum](https://www.mindmeister.com/1762526660/the-scrum-guide-the-definitive-guide-to-scrum-the-rules-of-the-game)
