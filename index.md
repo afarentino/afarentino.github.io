@@ -56,7 +56,7 @@ The Facebook profile page served as inspiration for Prezi's starter template.
 During the workshop, John and I challenged project leaders to embrace simple yet effective habits that reduce cognitive load and increase team effectiveness.
 
 ### Mindmaps
-Mindmapping products like [Mindmeister](https://mindmeister.com) provide another dimension for anyone to create, present, and share ideas.  
+Mind mapping products like [Mindmeister](https://mindmeister.com) provide another dimension for anyone to create, present, and share ideas.  
 
 I use mind mapping to help with book reviews, training materials, meeting agendas, and as a tool for discovery work.  One of my favorite features of Mindmeister is its support for publishing maps as traditional slide shows. If you want to give the product a try, here is a [link](https://www.mindmeister.com/mind-map-pricing) to Mindmeister's pricing.  All users can sign-up for FREE and create up to 3 maps.
 
